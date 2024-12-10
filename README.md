@@ -1,1 +1,5 @@
-# DRC-C-I
+# Dewarping and Restoration of Camera-Captured Document Images
+
+This research focuses on developing a method for restoring the topology of digital images of paper documents captured by a camera, using algorithms for detection, segmentation, geometry restoration, and text recognition. Our methodology employs deep learning (DL) for document outline detection, followed by computer vision (CV) to create a topological 2D grid using cubic polynomial interpolation and correct nonlinear distortions by remapping the image. We developed a new pipeline for automatic document dewarping and reconstruction, along with a framework and dataset to demonstrate its efficiency. Our experiments confirm the methodology's effectiveness, speed, and superiority over existing benchmarks in terms of document readability via OCR and geometry restoration. This paves the way for creating high-quality digital copies of paper documents and enhancing the efficiency of OCR systems.
+
+Keywords: Digital Document Copy, Image Distortions, Document Reconstruction, Image Dewarping, Geometry Restoration, Mobile Scanner, Boundary and Mask Detection, Cubic Polynomial Approximation, Text Readability, Optical Character Recognition 
