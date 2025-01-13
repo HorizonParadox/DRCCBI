@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Geometry Restoration and Dewarping of Camera-Captured Document Images</h1>
 
-[**Valery Istomin**](https://www.linkedin.com/in/valery-istomin-90a473247/)<sup>1</sup>, [**Oleg Pereziabov**](https://www.linkedin.com/in/oleg-pereziabov-a6b287254/)<sup>2</sup> and [**Ilya Afanasyev**](https://www.linkedin.com/in/ilya-afanasyev-8783291a/)<sup>3,4</sup>
+[**Valery Istomin**](https://www.linkedin.com/in/valery-istomin-90a473247/)<sup>1</sup>, [**Oleg Perezyabov**](https://www.linkedin.com/in/oleg-pereziabov-a6b287254/)<sup>2</sup> and [**Ilya Afanasyev**](https://www.linkedin.com/in/ilya-afanasyev-8783291a/)<sup>3,4</sup>
 
 <sup>1</sup>Shuya Branch of the Ivanovo State University, Shuya, Russia <br>
 <sup>2</sup>BIA Technologies, St. Petersburg, Russia <br>
