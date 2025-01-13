@@ -16,6 +16,8 @@ This research focuses on developing a method for restoring the topology of digit
 
 Keywords: Document Image Dewarping, Image Distortions, Geometry Restoration 
 
+![teaser](public/assets/methodology2.png)
+
 ## Citation
 
 If you find this project useful, please consider citing:
