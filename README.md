@@ -9,6 +9,8 @@
 <sup>4</sup>Innopolis University, Innopolis, Russia 
 
 <a href="https://arxiv.org/abs/2501.03145"><img src='https://img.shields.io/badge/arXiv-Document%20Dewarping-red' alt='Paper PDF'></a>
+<a href='https://github.com/HorizonParadox/DRCCBI'><img src='https://img.shields.io/badge/Code-Document%20Dewarping-yellow' alt='Benchmark'></a>
+<a href='https://github.com/HorizonParadox/DRCCBI/tree/main/public'><img src='https://img.shields.io/badge/Data-Document%20Dewarping-blue' alt='Dataset'></a>
 
 </div>
 
