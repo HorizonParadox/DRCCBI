@@ -22,7 +22,7 @@ The flowchart of the document geometry restoration and dewarping algorithm:
   1) Identifying the document mask using the YOLOv8 model; 
   2) Detecting the contour edges of the document, approximating the corners, and segmenting the contour into fragments corresponding to each side of the document; 
   3) Creating a 2D grid of the document by interpolating its opposite sides with evenly spaced curved lines, approximating each line with a cubic polynomial; 
-  4) Detecting the intersection points of the curved lines, constructing the resulting grid for image transformation, and creating a transformation map based on the 2D points, followed by remapping the original image using this map.
+  4) Detecting the intersection points of the curved lines, constructing the resulting grid for image transformation, and creating a transformation map based on the 2D points, followed by remapping the original image.
 
 ![teaser](public/assets/comparison.jpg)
 
