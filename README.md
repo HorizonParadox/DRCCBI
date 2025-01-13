@@ -24,6 +24,10 @@ The flowchart of the document geometry restoration and dewarping algorithm:
   3) Creating a 2D grid of the document by interpolating its opposite sides with evenly spaced curved lines, approximating each line with a cubic polynomial; 
   4) Detecting the intersection points of the curved lines, constructing the resulting grid for image transformation, and creating a transformation map based on the 2D points, followed by remapping the original image using this map.
 
+![teaser](public/assets/comparison.jpg)
+
+The comparison of documents reconstructed by popular desktop DL models - DocTr++, DocGeoNet, RectiNet and our algorithm.
+
 ## Citation
 
 If you find this project useful, please consider citing:
